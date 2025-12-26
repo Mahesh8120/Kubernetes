@@ -9,5 +9,5 @@ spec:
   containers:
   - name: mahesh
     image: nginx
-    Ports:
-    - containerport: 80
+    ports:
+    - containerPort: 80
